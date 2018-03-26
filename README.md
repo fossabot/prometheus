@@ -1,6 +1,7 @@
 # Prometheus [![Build Status](https://travis-ci.org/prometheus/prometheus.svg)][travis]
 
-[![CircleCI](https://circleci.com/gh/prometheus/prometheus/tree/master.svg?style=shield)][circleci]
+[![CircleCI](https://circleci.com/gh/prometheus/prometheus/tree/master.svg?style=shield)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmuratkars%2Fprometheus.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmuratkars%2Fprometheus?ref=badge_shield)
+[circleci]
 [![Docker Repository on Quay](https://quay.io/repository/prometheus/prometheus/status)][quay]
 [![Docker Pulls](https://img.shields.io/docker/pulls/prom/prometheus.svg?maxAge=604800)][hub]
 [![Go Report Card](https://goreportcard.com/badge/github.com/prometheus/prometheus)](https://goreportcard.com/report/github.com/prometheus/prometheus)
@@ -103,3 +104,6 @@ Apache License 2.0, see [LICENSE](https://github.com/prometheus/prometheus/blob/
 [hub]: https://hub.docker.com/r/prom/prometheus/
 [circleci]: https://circleci.com/gh/prometheus/prometheus
 [quay]: https://quay.io/repository/prometheus/prometheus
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmuratkars%2Fprometheus.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmuratkars%2Fprometheus?ref=badge_large)
